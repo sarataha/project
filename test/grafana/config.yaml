@@ -1,0 +1,4 @@
+app:
+  namespace: grafana
+  source: oci://registry.local.com/sara/grafana
+  version: 8.4.7
