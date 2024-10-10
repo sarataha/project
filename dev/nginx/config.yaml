@@ -1,0 +1,4 @@
+app:
+  namespace: nginx
+  source: oci://registry.local.com/sara/nginx
+  version: 0.1.0
